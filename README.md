@@ -1,4 +1,4 @@
-# nykaa-clone
+# Shop.com-clone
 
 #### SHOP.COM is a new kind of shopping comparison site that offers the most comprehensive shopping experience on the web. Our shopping experts have drawn on their industry experience and insider connections to bring you the best collection of the stores you can't live without, and the brands and products you love - all in one place.Market America Worldwide, a global ecommerce and internet marketing company and owner of the award-winning global e-commerce site, SHOP.COM, has been ranked #13 in the Business North Carolina Top 125 for 2022.
 
